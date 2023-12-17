@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997577047207",
+    "project_id": "mobil-cihazlar-vize",
+    "storage_bucket": "mobil-cihazlar-vize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997577047207:android:19826f3e20ecd9e6cf2f82",
+        "android_client_info": {
+          "package_name": "com.example.vize_proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI3yy6aFKE6BrDR0zzBaL7tB1CZ_axNX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
