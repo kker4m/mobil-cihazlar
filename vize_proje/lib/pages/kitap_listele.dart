@@ -31,6 +31,7 @@ class _KitapListesiSayfasiState extends State<KitapListesiSayfasi> {
             children: snapshot.data!.docs.map((doc) {
               return Card(
                 child: ListTile(
+                  subtitle: Text('${doc['sayfa_sayisi']} adet sayfali kitap.'),
                   leading: Text(doc['ad']),
                   title: Text(doc['yazarlar']),
                   trailing: Row(
